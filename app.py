@@ -46,4 +46,4 @@ while True:
             route53_cache_ip = my_ip
     except:
         print("Connection error!")
-    sleep(3600)
+    sleep(1800)
